@@ -87,3 +87,6 @@ El proyecto incluye **más de 15 consultas SQL**, organizadas por nivel:
 - ✅ Consultas con `JOIN`, `ORDER BY`, `GROUP BY`
 
 ![alt text](image.png)
+
+## Video ENLACE
+https://www.canva.com/design/DAGoPNcDFp8/cREMQXf6AYTWJgKEzn3toQ/edit?utm_content=DAGoPNcDFp8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
