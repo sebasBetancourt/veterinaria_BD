@@ -86,3 +86,4 @@ El proyecto incluye **más de 15 consultas SQL**, organizadas por nivel:
 - ✅ Uso de `ROUND` y `IF`
 - ✅ Consultas con `JOIN`, `ORDER BY`, `GROUP BY`
 
+![alt text](image.png)
